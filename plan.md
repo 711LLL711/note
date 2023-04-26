@@ -37,4 +37,4 @@
 * day2江汉村推荐'六也抄手'
 * day2游船两江晴川号或船长九号，可以现在就订票
 * 湖北省博物馆现在门票已经约满了，如果之前没约的话就跳过吧
-
+* 所有景点标注 [click here](https://cn.bing.com/maps?&cp=p2qwzxthrpj0&lvl=15&osid=c67ca200-8b07-4e30-962d-f3651b7c353f&v=2&sV=2&form=S00027)
