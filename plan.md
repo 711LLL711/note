@@ -45,8 +45,5 @@
   * 曹祥泰
   * 汪玉霞
   * 杨记绿豆酥（荆州大厦店）
-* day1在江汉路步行街吃饭去吃小民大排档！！！
-* day2江汉村推荐'六也抄手'
-* day2游船两江晴川号或船长九号，可以现在就订票
 * 湖北省博物馆现在门票已经约满了，如果之前没约的话就跳过吧
 * 所有景点标注 [click here](https://cn.bing.com/maps?osid=de9009a9-3b3e-4700-bfca-3dd7b43aeee1&cp=p2qb8bthsqyy&lvl=14&v=2&sV=2&form=S00027)
