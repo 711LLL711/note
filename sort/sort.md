@@ -1,7 +1,7 @@
 # 十大排序算法
 * [冒泡排序--bubble_sort](#冒泡排序)
 * [选择排序--select_sort](#选择排序)
-* [插入排序--insert_)sort](#插入排序)
+* [插入排序--insert_sort](#插入排序)
 * [希尔排序--shell_sort](#希尔排序)
 * [归并排序--merge_sort](#归并排序)
 * [快速排序--quick_sort](#快速排序)
@@ -12,7 +12,11 @@
 
 ## 时间复杂度
 ![时间复杂度](sort.png)
+❗Not sure about time plexity of shell sort
+> 希尔排序时间复杂度是 O(n^(1.3-2))，空间复杂度为常数阶 O(1)。希尔排序没有时间复杂度为 O(n(logn)) 的快速排序算法快 ，  
+> 因此对中等大小规模表现良好，但对规模非常大的数据排序不是最优选择，总之比一般 O(n^2 ) 复杂度的算法快得多。---from cainiao tutorial  
 
+> For many practical variants, determining their time complexity remains an open problem. ---from wikipedia
 ## 思路和C语言代码实现
 to do...
 
@@ -46,12 +50,12 @@ to do...
 * 度为1
 * 度为2
 ### 平衡二叉搜索树
-平衡因子的概念--左子树高度-右子树高度，>2就是不平衡
+平衡因子的概念--左子树高度-右子树高度，>2就是不平衡  
 如何平衡化？
 
 ## 散列表（哈希表）查找
 ### 散列表基本思想
----元素的存储位置与关键字有对应关系
+---元素的存储位置与关键字有对应关系   
 ---哈希函数是桥梁
 ### 散列表的构造
 1. 直接定址法
