@@ -30,20 +30,21 @@
   |2    |$n_2$ | 
 
 <br> 
-  $$
-  1+2{n_2}+n_1=n_2+n_1+n
-  ==>n=n_2+1
-  $$
-* n个结点m叉树深度$\log_{2} (n+1)$
-* 顺序编号的满2叉树1~n
+
+$1+2n_2+n_1=n_2+n_1+n \quad \Rightarrow \quad n=n_2+1$
+
+- n个结点m叉树深度$\log_{2}(n+1)$
+- 顺序编号的满2叉树1~n
 第i个结点的
-   左子：2i
-   右子：2i+1
-   双亲：$\lfloor {i+1} \rfloor$ 
-   层号：$\lfloor \log_{2}(i) \rfloor +1=\lceil \log_{2}(i+1) \rceil$ 
-* 完全二叉树
-  n个节点完全二叉树的深度
+  - 左子：$2i$
+  - 右子：$2i+1$
+  - 双亲：$\lfloor{i/2}\rfloor$
+  - 层号：$\lfloor \log_{2}(i) \rfloor +1 = \lceil \log_{2}(i+1) \rceil$
+
+- 完全二叉树
+  n个节点完全二叉树的深度  
   $\lfloor \log_2n \rfloor+1=\lceil \log_2(n+1) \rceil$
+
 
 
 
